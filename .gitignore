@@ -1,0 +1,8 @@
+.env
+.vscode
+*.pem
+*.dev.vars
+*.bin
+*.key
+*.pass
+*.conf
